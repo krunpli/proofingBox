@@ -19,8 +19,6 @@ maybe:
 9, time-reset button
 10, on/off button
 
-features:
-
 TODO:
 - python code to readout the temperature sensor
 - python code to control the relays
