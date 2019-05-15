@@ -26,7 +26,9 @@ oledExp.clear()
 
 
 ## get the target and actual temperature values
+## TODO preparation the readout: https://docs.onion.io/omega2-docs/communicating-with-1w-devices.html
 tempTrg    = "25"
+# tempAct = awk -F= '/t=/ {printf "%.03f\n", $2/1000}' /sys/devices/w1_bus_master1/XXXXX/w1_slave
 tempAct    = "21"
 
 ## get the relay status
