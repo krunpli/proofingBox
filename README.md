@@ -18,7 +18,7 @@ needed parts/ what I have:
 - a bunch of cables
 
 maybe:
-- reflection foil for the cap of the isolation box
+- reflection foil for the cover of the isolation box
 - time-reset button
 - on/off button
 
